@@ -8,7 +8,7 @@ Fires are a significant environmental hazard that can cause devastating impacts 
 Question will try to answer:\
 
 About the dataset:\
-
+This dataset contains information on the causes and frequency of fires that occurred in various jurisdictions (administrative regions) across Canada from 1990 to 2021, in English and French. The varibles are:\
 
 \
 Preliminary Results\
