@@ -9,7 +9,7 @@ Question will try to answer:
 
 About the dataset:\
 This dataset contains information on the causes and frequency of fires that occurred in various jurisdictions (administrative regions) across Canada from 1990 to 2021, in English and French. The 11 varibles are:\
-Year / Année: This column represents the year when the fire incidents occurred.\
+*~~~Year / Année~~~: This column represents the year when the fire incidents occurred.\
 ISO: This column contains the ISO code corresponding to the specific geographic region or province where each fire incident took place.\
 Jurisdiction / Juridiction: This column indicates the administrative region or jurisdiction responsible for the area where the fire incident occurred.\
 Cause / Origine: This column categorizes the primary reason behind each fire incident.\
