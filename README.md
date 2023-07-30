@@ -6,7 +6,7 @@ By: Brendan Yuen, Daniel Ma, Jiayi Zou, Elmeri Hakkinen
 Backgroud:\
 Forest fires are a significant environmental concern in Canada due to the country's vast forested areas and diverse climatic conditions. These fires can have severe ecological, economic, and social impacts on the affected regions. Understanding the causes and patterns of forest fires is essential for developing effective strategies for prevention, mitigation, and response.
 
-Question will try to answer: ???
+Question will try to answer: Did the proportion of fires cause by humans increase between the two time spans (1990 - 2005 and 2006 - 2021)?
 
 About the dataset:\
 This dataset contains information on the causes and frequency of forest fires that occurred in various jurisdictions (administrative regions) across Canada from 1990 to 2021, in English and French. The varibles are:
